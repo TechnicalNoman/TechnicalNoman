@@ -31,11 +31,9 @@
 
 
 ### Operating System 
-- Wireshark
-- Burp Suite
-- Nmap
-- Nessus
-- SQLmap
+- Windows 7/8/10/11
+- Linux Kali/Redhat
+
 
 
 ## :link: Links
